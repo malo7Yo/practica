@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V88hCoJMbCm2P4vGaHbWzPfNviLcBq3wUulbBT+rPA5/EZxLlZJciP9I011L9O5FrRB1pHCpMa759pcWpO86+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maloY\\Desktop\\api news\\news\\news.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maloY\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

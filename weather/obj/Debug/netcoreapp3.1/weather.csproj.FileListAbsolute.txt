@@ -1,0 +1,15 @@
+C:\Users\maloY\Desktop\Новая папка\weather\bin\Debug\netcoreapp3.1\weather.exe
+C:\Users\maloY\Desktop\Новая папка\weather\obj\Debug\netcoreapp3.1\weather.csprojAssemblyReference.cache
+C:\Users\maloY\Desktop\Новая папка\weather\obj\Debug\netcoreapp3.1\weather.AssemblyInfoInputs.cache
+C:\Users\maloY\Desktop\Новая папка\weather\obj\Debug\netcoreapp3.1\weather.AssemblyInfo.cs
+C:\Users\maloY\Desktop\Новая папка\weather\bin\Debug\netcoreapp3.1\weather.deps.json
+C:\Users\maloY\Desktop\Новая папка\weather\bin\Debug\netcoreapp3.1\weather.runtimeconfig.json
+C:\Users\maloY\Desktop\Новая папка\weather\bin\Debug\netcoreapp3.1\weather.runtimeconfig.dev.json
+C:\Users\maloY\Desktop\Новая папка\weather\bin\Debug\netcoreapp3.1\weather.dll
+C:\Users\maloY\Desktop\Новая папка\weather\bin\Debug\netcoreapp3.1\weather.pdb
+C:\Users\maloY\Desktop\Новая папка\weather\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\maloY\Desktop\Новая папка\weather\obj\Debug\netcoreapp3.1\weather.csproj.CoreCompileInputs.cache
+C:\Users\maloY\Desktop\Новая папка\weather\obj\Debug\netcoreapp3.1\weather.csproj.CopyComplete
+C:\Users\maloY\Desktop\Новая папка\weather\obj\Debug\netcoreapp3.1\weather.dll
+C:\Users\maloY\Desktop\Новая папка\weather\obj\Debug\netcoreapp3.1\weather.pdb
+C:\Users\maloY\Desktop\Новая папка\weather\obj\Debug\netcoreapp3.1\weather.genruntimeconfig.cache

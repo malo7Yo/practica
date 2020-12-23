@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Fp4JN7BHd8mizYXPC6XpfglRESCR7eohV7eyl57vyjXi6dTyDjkay4XrFLDdjK1VEWJCAIcQ6RThYWa6Sb3ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maloY\\Desktop\\Новая папка\\weather\\weather.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maloY\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
